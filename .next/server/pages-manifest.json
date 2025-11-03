@@ -1,10 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/dashboard": "pages/dashboard.js",
-  "/login": "pages/login.js",
-  "/subscribe": "pages/subscribe.js",
-  "/create": "pages/create.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/api/render":"pages/api/render.js","/api/voice":"pages/api/voice.js","/create":"pages/create.html","/dashboard":"pages/dashboard.html","/":"pages/index.html","/login":"pages/login.html","/subscribe":"pages/subscribe.html","/view/[id]":"pages/view/[id].html","/_document":"pages/_document.js","/404":"pages/404.html"}
